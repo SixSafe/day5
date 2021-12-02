@@ -10,4 +10,5 @@
 <?php require_once 'navbar.php';?>
 <div class="center">
     <h3 class="q2">Support by</h3>
+    <h2>SUphakonnn</h2>
 </div>
