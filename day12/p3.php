@@ -11,4 +11,5 @@
 <div class="center">
     <h3 class="q2">Support by</h3>
     <h2>SUphakonnn</h2>
+    <h2>Safe</h2>
 </div>
